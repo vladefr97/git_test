@@ -9,12 +9,12 @@ def print_hi(name):
     print(f'Hi, {name}')  # Press ⌘F8 to toggle the breakpoint.
 
 
+def some_func():
+    return "branch main"
+
+
 # Press the green button in the gutter to run the script.
 if __name__ == '__main__':
-    print_hi('PyCharm')
-
+    print(some_func())
 
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
-
-def some_func():
-    return "some string"
