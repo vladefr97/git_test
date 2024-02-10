@@ -10,7 +10,7 @@ def print_hi(name):
 
 
 def some_func():
-    return "branch main"
+    return "branch feature1"
 
 
 # Press the green button in the gutter to run the script.
